@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primi passi con laravel</title>
+    <title>laravel-primi-passi</title>
 </head>
-
 <body>
     <header>
         <nav>
@@ -14,6 +13,6 @@
             <a href="{{route('chi-siamo')}}">Chi siamo</a>
         </nav>
     </header>
-    <h1>Hello {{$nome}} </h1>
+    <h1>Chi siamo</h1>
 </body>
 </html>
