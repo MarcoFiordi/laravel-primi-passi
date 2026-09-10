@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Primi passi con laravel</title>
 </head>
+
 <body>
-    <h1>Hello world</h1>
+    <h1>Hello {{$nome}} </h1>
 </body>
 </html>
